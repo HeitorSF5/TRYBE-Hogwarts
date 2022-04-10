@@ -1,0 +1,117 @@
+.header {
+  display: flex;
+  background-color: rgb(50, 167, 145);
+  justify-content: space-between;
+  color: aliceblue;
+  align-items: center;
+}
+
+.trybewarts-login {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 40px;
+}
+
+#main-content {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: rgb(182, 211, 208);
+  margin-left: 10%;
+}
+
+#evaluation-form {
+  display: flex;
+  width: 675px;
+  flex-flow: column wrap;
+  justify-content: space-around;
+}
+
+#trybewarts-forms-logo {
+  height: 500px;
+}
+
+#all-family {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+#label-family {
+  padding: 5px 0;
+  display: flex;
+  flex-direction: column;
+}
+
+#input-family {
+  display: flex;
+  flex-direction: column;
+  padding: 10px 0;
+}
+
+#all-content {
+  display: flex;
+}
+
+#input-content {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  padding: 10px 0;
+}
+
+#input-learn {
+  display: flex;
+  flex-direction: column;
+}
+
+#all-learn {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+#label-content {
+  display: flex;
+  flex-direction: column;
+  padding: 10px 0;
+}
+
+#label-rate {
+  display: flex;
+  padding: 15px;
+}
+
+#all-rate {
+  display: flex;
+  align-items: center;
+}
+
+#one-ten {
+  display: flex;
+  padding: 0 8px;
+}
+
+#section-content {
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(182, 211, 208);
+}
+
+.textarea {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+#super-flex {
+  display: flex;
+  background-color: rgb(182, 211, 208);
+}
+
+#foot-here {
+  display: flex;
+  justify-content: center;
+  color: aliceblue;
+  background-color: rgb(50, 167, 145);
+}
